@@ -1,0 +1,1 @@
+This is just a short program that I've written to see what I've learned after a month or two. A few things still to add to it. The main file is intro with loop, it will create both a dat file for saving progress and rtf file just to have something in utf-8.
